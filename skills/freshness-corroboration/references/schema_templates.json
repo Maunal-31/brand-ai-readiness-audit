@@ -1,0 +1,12 @@
+{
+  "Organization": {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Example Corp",
+    "url": "https://example.com",
+    "sameAs": [
+      "https://www.linkedin.com/company/example",
+      "https://www.wikidata.org/wiki/Q123456"
+    ]
+  }
+}

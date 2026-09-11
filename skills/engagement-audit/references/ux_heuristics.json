@@ -1,0 +1,6 @@
+{
+  "max_paragraph_length": 500,
+  "hero_word_min": 3,
+  "hero_word_max": 15,
+  "suspicious_classes": ["modal", "overlay", "cookie", "banner"]
+}
